@@ -1,0 +1,1 @@
+he bit is power of 2 
